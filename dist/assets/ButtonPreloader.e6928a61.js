@@ -1,0 +1,1 @@
+import{a,j as e,R as t,I as n}from"./index.d87dee6f.js";function i(){return a("div",{className:"flex gap-2 items-center justify-center",children:[e("h1",{children:"Loading"}),e("div",{className:"animate-spin text-2xl font-bold",children:t.createElement(n,{size:"20"})})]})}export{i as B};

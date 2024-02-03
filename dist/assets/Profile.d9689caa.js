@@ -1,0 +1,1 @@
+import{r as o,l as t,j as r}from"./index.d87dee6f.js";import{R as i}from"./ReceptionistSidebar.adc350cd.js";import{P as e}from"./Profile.0b1ac7da.js";import"./react-confirm-alert.30c1f10e.js";import"./index.esm.e91ca65e.js";import"./index.esm.9f9cf711.js";import"./Forbidden.02296651.js";function x(){return o.exports.useContext(t),r(i,{children:r(e,{})})}export{x as default};

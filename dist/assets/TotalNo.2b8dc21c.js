@@ -1,0 +1,1 @@
+import{a,j as r}from"./index.d87dee6f.js";function o({totalnumber:e}){return a("p",{className:"text-base",children:["Total:"," ",r("span",{className:"border border-indigo-900 px-2 text-white rounded-xl bg-blue-900",children:e})," "]})}export{o as T};

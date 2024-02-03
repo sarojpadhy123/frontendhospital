@@ -1,0 +1,1 @@
+import{a,j as e}from"./index.d87dee6f.js";function n({label:l,children:s,...t}){return a("div",{className:"flex flex-col mb-6",children:[e("label",{htmlFor:"",className:" mb-2 text-lg font-semibold",children:l}),e("select",{...t,id:"",className:"w-full rounded-lg text-base p-2 outline-none",children:s})]})}export{n as S};

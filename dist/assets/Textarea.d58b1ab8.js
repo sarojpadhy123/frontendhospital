@@ -1,0 +1,1 @@
+import{a as o,j as e}from"./index.d87dee6f.js";function t({label:a,children:r,...l}){return o("div",{className:"flex flex-col mb-6",children:[e("label",{htmlFor:"",className:"mb-2 text-lg font-semibold",children:a}),e("textarea",{name:"",id:"",cols:"30",rows:"4",className:"py-2 px-2 border border-gray-300 text-lg outline-none rounded-md",...l,children:r})]})}export{t as T};

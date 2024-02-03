@@ -1,0 +1,1 @@
+import{a as t,j as e}from"./index.d87dee6f.js";function n(){return t("div",{className:"h-screen flex flex-col justify-center items-center bg-indigo-50",children:[e("h1",{className:"text-9xl font-bold text-indigo-900",children:"403"}),e("h2",{className:"text-2xl text-indigo-500",children:"Forbidden!!!"})]})}export{n as default};

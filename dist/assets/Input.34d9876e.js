@@ -1,0 +1,1 @@
+import{a as s,j as e}from"./index.d87dee6f.js";function o({label:l,...r}){return s("div",{className:"flex flex-col mb-6",children:[e("label",{htmlFor:"",className:" mb-2 text-lg font-semibold",children:l}),e("input",{...r,className:"py-2 px-2 border border-gray-300 text-base outline-none rounded-md"})]})}export{o as I};

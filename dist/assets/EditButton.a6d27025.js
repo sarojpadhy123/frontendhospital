@@ -1,0 +1,1 @@
+import{j as i,L as n}from"./index.d87dee6f.js";function r({editFunction:t,children:e}){return i(n,{className:"bg-indigo-500 px-2 flex justify-center items-center rounded-full text-sm text-white p-2 hover:bg-indigo-900",to:t,children:e})}export{r as E};

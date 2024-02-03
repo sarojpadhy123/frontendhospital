@@ -1,0 +1,1 @@
+import{r as o,l as t,j as r}from"./index.d87dee6f.js";import{A as e}from"./AccountantSidebar.24d646de.js";import{P as i}from"./Profile.0b1ac7da.js";import"./react-confirm-alert.30c1f10e.js";import"./index.esm.4a753652.js";import"./Forbidden.02296651.js";function l(){return o.exports.useContext(t),r(e,{children:r(i,{})})}export{l as default};
